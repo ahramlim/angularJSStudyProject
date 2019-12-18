@@ -1,0 +1,6 @@
+/* app css stylesheet */
+@import url(reset.css);
+body {
+  font-size: 30px;
+  line-height: 1.3em;
+}
