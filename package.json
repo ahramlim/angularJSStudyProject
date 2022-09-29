@@ -9,7 +9,7 @@
     "angular": "^1.7.9",
     "angular-loader": "^1.7.9",
     "angular-route": "^1.7.9",
-    "d3": "^5.14.2",
+    "d3": "^7.6.1",
     "html5-boilerplate": "0.0.1"
   },
   "devDependencies": {
